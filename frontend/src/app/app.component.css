@@ -1,0 +1,24 @@
+:host {
+  --content-padding: 10px;
+}
+
+.content {
+  padding: var(--content-padding);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  width: 100px;
+  margin-right: 20px; 
+}
+
+p {
+  font-size: 20px;
+  margin-left: 20px; 
+  color: #7a1e79;
+  
+}

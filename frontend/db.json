@@ -1,0 +1,74 @@
+{
+  "locations": [
+  {
+  "id": 0,
+  "name": "Aquila Restaurant",
+  "city": "Chiang mai",
+  "photo": "/assets/1.jpg",
+  "wifi": true
+  },
+  {
+  "id": 1,
+  "name": "L'éléphant",
+  "city": "Chiang mai",
+  "photo": "/assets/2.jpg",
+  "wifi": true
+  },
+  {
+  "id": 2,
+  "name": "WThe Service 1921 Restaurant & Bar",
+  "city": "Chiang mai",
+  "photo": "/assets/3.jpg",
+  "wifi": true
+  },
+  {
+  "id": 3,
+  "name": "Taste Private Dining By Olive Tree",
+  "city": "Chiang mai",
+  "photo": "/assets/4.jpg",
+  "wifi": true
+  },
+  {
+  "id": 4,
+  "name": "Kiti Panit",
+  "city": "Chiang mai",
+  "photo": "/assets/5.jpg",
+  "wifi": true
+  },
+  {
+  "id": 5,
+  "name": "Mezzaluna at Lebua Hotel",
+  "city": "Bangkok",
+  "photo": "/assets/6.jpg",
+  "wifi": true
+  },
+  {
+  "id": 6,
+  "name": "Eat Me",
+  "city": "Bangkok",
+  "photo": "/assets/7.jpg",
+  "wifi": true
+  },
+  {
+  "id": 7,
+  "name": "Scarlett Wine Bar and Restaurant at the Pullman",
+  "city": "Bangkok",
+  "photo": "/assets/8.jpg",
+  "wifi": true
+  },
+  {
+  "id": 8,
+  "name": "Pastel Rooftop Bar & Mediterranean Dining",
+  "city": "Bangkok",
+  "photo": "/assets/9.jpg",
+  "wifi": true
+  },
+  {
+  "id": 9,
+  "name": "Standard",
+  "city": "Bangkok",
+  "photo": "/assets/10.jpg",
+  "wifi": true
+  }
+  ]
+  }
